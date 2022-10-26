@@ -1,0 +1,12 @@
+F:\Learning\NET Learn\MinimalAPIDemoApp\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+F:\Learning\NET Learn\MinimalAPIDemoApp\DataAccess\bin\Debug\net6.0\DataAccess.dll
+F:\Learning\NET Learn\MinimalAPIDemoApp\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+F:\Learning\NET Learn\MinimalAPIDemoApp\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+F:\Learning\NET Learn\MinimalAPIDemoApp\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Learning\NET Learn\MinimalAPIDemoApp\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+F:\Learning\NET Learn\MinimalAPIDemoApp\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+F:\Learning\NET Learn\MinimalAPIDemoApp\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+F:\Learning\NET Learn\MinimalAPIDemoApp\DataAccess\obj\Debug\net6.0\DataAccess.dll
+F:\Learning\NET Learn\MinimalAPIDemoApp\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+F:\Learning\NET Learn\MinimalAPIDemoApp\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+F:\Learning\NET Learn\MinimalAPIDemoApp\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
